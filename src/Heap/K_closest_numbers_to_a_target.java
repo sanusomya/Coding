@@ -24,7 +24,7 @@ public class K_closest_numbers_to_a_target {
         }
     }
 }
-class Pair{
+ class Pair{
     int key , value;
     public Pair(int key, int value) {
         this.key = key;
